@@ -3,7 +3,7 @@
 
 # 👋 Hi there, I'm Md Habibur Rahman
 
-🎯 ** Senior Business Analyst (Information Technology) | Epyllion Group**
+🎯 **Senior Business Analyst (Information Technology) | Epyllion Group**
 
 🔍 Passionate about data-driven decision-making, business automation, and ERP transformation. I specialize in building insightful Power BI dashboards, writing efficient SQL queries, and integrating enterprise data systems.
 
