@@ -54,7 +54,6 @@ Basic inventory prediction model using Python’s `pandas` and `prophet`.
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrsobuj/)
-[![Portfolio](https://freelance-bi-portfolio-md-habibur-rahman-sobuj-20735382730.asia-southeast1.run.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sobuj.cse25@gmail.com)
 
 ---
